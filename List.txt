@@ -47,9 +47,9 @@ youtube.com###secondary
 youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
 
 !In Video Player recommendations
-youtube.com##.ytp-fullscreen-grid
-!if issues try with some blocking, havn't found any other usage of that div name but who knows
-!youtube.com##.ytp-fullscreen-grid-stills-container
+!youtube.com##.ytp-fullscreen-grid
+!keep gradient visible since scrolling can't be blocked — avoids feeling broken
+youtube.com##.ytp-fullscreen-grid-stills-container
 
 
 
