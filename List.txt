@@ -62,8 +62,6 @@ youtube.com###video-summary
 !recommendations/related content (Queue and transcript are bundeled into this aswell)
 youtube.com###secondary:not(:has(#playlist:has(#items:not(:empty)))):not(:has(#panels ytd-engagement-panel-section-list-renderer[visibility="ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"]))
 youtube.com###related
-!to use Queue/Transcript instead: disable ###secondary and enable ###related
-youtube.com###related
 
 
 !In Video Player
