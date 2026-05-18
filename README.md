@@ -1,6 +1,7 @@
 # Minimal-YouTube-UI
-An uBlock filter list for a minimal YouTube UI, 
-some additional included non UI rules:
+An uBlock filter list for a minimal YouTube UI.
+
+Some additional included non UI rules:
 - members only content filtered by the "members only" text on the start page
 
 Note: Using this filter list slightly increases YouTube video load times
